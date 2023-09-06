@@ -15,3 +15,5 @@ Updating my readme file content...
 This change will be discarded !!
 
 This will be considered final
+
+Editing in my-new-branch
